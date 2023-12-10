@@ -113,7 +113,7 @@ body {
       vertical-align:inherit ;
       right: 0;
       background-color: #1a1a1a;
-      transition: all .9s ease-in-out .1s;
+      transition: all .9s ease-in-out .5s;
     }
     nav ul {
       list-style: none;
