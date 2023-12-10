@@ -118,7 +118,20 @@ body {
     nav ul {
       list-style: none;
     }
-    
+    .first {
+      transform: rotate(45deg) translate(6px, 3px);
+      transition: all .5s ease-in-out;
+  }
+  
+  .second {
+      display: none;
+      transition: all 1s ease-in-out;
+  }
+  
+  .third {
+      transform: rotate(-45deg) translate(4px, 1px);
+      transition: all .5s ease-in-out;
+  }
     
     
     nav a {
