@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://af-additions.netlify.app/</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://af-additions.netlify.app/graphicdesign</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://af-additions.netlify.app/videoediting</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://af-additions.netlify.app/webdesign</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://af-additions.netlify.app/blog</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://af-additions.netlify.app/contactus</loc>
+  <lastmod>2024-01-27T14:19:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
